@@ -1,14 +1,3 @@
-<h1 align="center">
-  <br>
-  <a href="https://uva.onlinejudge.org" target="_blank"><img src="https://github.com/jcbages/uva-online-judge-solutions/blob/master/logo.png" alt="UVa Online Judge"></a>
-  <br>
-  UVa Online Judge Solutions
-  <br>
-  <br>
-</h1>
-
-<h4 align="center">:trophy: Solutions to problems from the UVa Online Judge :trophy:</h4>
-
 ### Problem Set Volumes
 #### Volume 001
 - [x] 00100 — The 3n + 1 problem
